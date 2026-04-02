@@ -78,7 +78,7 @@ The goal is to help businesses make **data-driven decisions** by identifying:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/Dashboard.png)
 
 ---
 
